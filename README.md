@@ -19,4 +19,6 @@ Slides can be  found [here](https://docs.google.com/presentation/d/1O8MopCYL7tr4
 ## Exercises
 The exercises can be found [here](https://github.com/joerg84/Graph_Powered_ML_Workshop/tree/master/excercises), please refer to slides for logistics.
 
+Exercises solutions are found [here](https://github.com/LukasHedegaard/Graph_Powered_ML_Workshop/tree/master/excercises)
+
 
