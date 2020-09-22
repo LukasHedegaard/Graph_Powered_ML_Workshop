@@ -1,4 +1,18 @@
 # Graph Powered Machine Learning
+
+Modified from the original repo with solution proposals for the exercises. These are found in [here](https://github.com/LukasHedegaard/Graph_Powered_ML_Workshop/tree/master/excercises)
+
+https://github.com/LukasHedegaard/Graph_Powered_ML_Workshop/tree/master/excercises
+
+## Solution authors
+
+Mateo Sokač
+- Student ID: au589901 (Aarhus University)
+- Email Address: mateo.sokac@clin.au.dk
+
+Lukas Hedegaard Morsing
+- Student ID: au478108 (Aarhus University)]
+- Email Address: lh@eng.au.dk
  
 ## Slides 
 Slides can be  found [here](https://docs.google.com/presentation/d/1O8MopCYL7tr4cavs23mbuf4TW2C1Cy8XW9E96Qs9PzA).
